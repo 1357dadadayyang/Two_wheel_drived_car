@@ -1,0 +1,6 @@
+<launch>
+    <param name="robot_description" textfile="$(find Two_wheel_drive_model)/urdf/my_car.urdf"/>
+    <node pkg="rviz" type="rviz" name="rviz">
+
+
+</launch>
