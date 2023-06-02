@@ -1,0 +1,4 @@
+/home/yangyang/test_code/build/CMakeFiles/rebuild_cache.dir
+/home/yangyang/test_code/build/CMakeFiles/edit_cache.dir
+/home/yangyang/test_code/build/CMakeFiles/hell.dir
+/home/yangyang/test_code/build/CMakeFiles/use_hello.dir
